@@ -1,5 +1,4 @@
 using CliMedAPI.Data.Dtos;
-using CliMedAPI.Data.Dtos.Especialista;
 using CliMedAPI.Model;
 using AutoMapper;
 using System;
