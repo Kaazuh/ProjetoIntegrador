@@ -1,0 +1,32 @@
+C:\Users\ACER\source\repos\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+C:\Users\ACER\source\repos\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+C:\Users\ACER\source\repos\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+C:\Users\ACER\source\repos\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+C:\Users\ACER\source\repos\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\ACER\source\repos\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+C:\Users\ACER\source\repos\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AbstractFactory - Copia\bin\Debug\net5.0\AbstractFactory.exe
+C:\Users\ACER\source\repos\AbstractFactory - Copia\bin\Debug\net5.0\AbstractFactory.deps.json
+C:\Users\ACER\source\repos\AbstractFactory - Copia\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+C:\Users\ACER\source\repos\AbstractFactory - Copia\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\AbstractFactory - Copia\bin\Debug\net5.0\AbstractFactory.dll
+C:\Users\ACER\source\repos\AbstractFactory - Copia\bin\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\ACER\source\repos\AbstractFactory - Copia\bin\Debug\net5.0\AbstractFactory.pdb
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\AbstractFactory.dll
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\AbstractFactory.pdb
+C:\Users\ACER\source\repos\AbstractFactory - Copia\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
